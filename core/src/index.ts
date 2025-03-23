@@ -1,3 +1,3 @@
-const teste = 123;
-
-export { teste };
+export * from "./projeto";
+export * from "./tecnologia";
+export * from "./shared";
